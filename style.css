@@ -1,0 +1,259 @@
+
+body{
+    margin:0;
+
+}
+/* -----------nav and empowering section-------- */
+*{
+    font-family: sans-serif;
+}
+.nav-empower{
+    background-color: #636c79;
+    color:#ffffff;
+}
+
+.nav-bar{
+display:flex;
+justify-content: space-between;
+align-items: center;
+width:90%;
+margin:auto;
+
+}
+
+.ul-items{
+    display:flex;
+    list-style:none;
+    gap:60px;
+    justify-content: flex-end;
+    flex-basis: 45%;
+}
+.list-items{
+    padding:6px 2px;
+}
+
+.nav-btn{
+    background-color: transparent;
+    padding:8px 35px;
+    color:#ffffff;
+    border:#a2a957 solid;
+
+}
+
+/* -----empowering section------ */
+
+.enpowering-section{
+    display:flex;
+     justify-content:space-between;
+     width:80%;
+    margin:30px auto;
+
+
+}
+
+.enpowering-section img{
+    width:500px;
+    height:500px;
+}
+
+.enpowering-section h1{
+    font-size: 3.5rem;
+    margin-bottom:15px;
+    font-weight: 600;
+}
+
+.enpower-text p{
+    line-height: 30px;
+    font-size:20px;
+    font-weight: 400;
+    color:#dadada;
+}
+
+.email-btns{
+    padding:10px 5px;
+    background-color: #ffffff;
+    width:80%;
+}
+
+.fa-envelope{
+color:black;
+}
+
+input[type=email]{
+    border:none;
+    padding-right:60px;
+    margin-right:20px;
+}
+.email-btn{
+padding:10px 35px;
+background-color: #8bb7a2;
+border:none;
+border-radius:5px;
+}
+
+/* --------we connect section------- */
+
+.we-heading{
+    text-align: center;
+    font-size:2rem;
+    margin-top:50px;
+}
+
+.numbers-cal{
+    display:flex;
+    width:80%;
+    margin: 50px auto;
+    justify-content: space-between;
+}
+
+.number{
+    text-align: center;
+    font-weight:700;
+    font-size: 25px;
+
+}
+
+.table-img{
+    width:80%;
+    margin:auto;
+}
+.img-table{
+    width:100%;
+    height:600px;
+}
+
+/* ---------we made easy section----------- */
+
+.we-heading{
+    margin:50px;
+    font-size:2.4rem;
+}
+
+.efctveways-sec{
+ margin:70px auto;
+    display:flex;
+    width:80%;
+    gap:80px;
+}
+
+.effctve-text{
+    width:50%;
+}
+
+.effctve-text h4{
+    font-size:45px;
+margin-bottom:2px;
+}
+
+.effctve-text p{
+    font-size:20px;
+    line-height: 30px;
+}
+
+.effctve-btn{
+    padding:10px 35px;
+background-color: #8bb7a2;
+border:none;
+border-radius:5px;
+color:#ffffff;
+}
+
+.effctve-img{
+    width:350px;
+    height:350px;
+        width:50%;
+
+}
+
+/* -------creative team section--------- */
+
+.crtveteam{
+    display:flex;
+    width:80%;
+    margin:30px auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.crtveteam h4{
+    font-size:2.5rem;
+}
+
+.crtveteam p{
+font-size:20px;
+line-height:30px;
+
+}
+
+.team-membrs{
+    display:flex;
+    width:80%;
+    margin:auto;
+    justify-content: space-between;
+}
+
+
+.member-img{
+    width:320px;
+    height:350px;
+}
+
+.seemore-btn{
+    text-align:center;
+    margin:30px;
+
+}
+.more-btn{
+    border:none;
+    padding:12px 40px;
+    background-color: #8bb7a2;
+    color:#ffffff;
+
+}
+
+/* ------footer ssection-------- */
+
+.footer{
+    background-color: #000000;
+    color:#d6d2d2;
+    height:350px;
+}
+
+.ftrlogo-section{
+    display:flex;
+    justify-content: space-between;
+    width:80%;
+    margin:20px auto;
+    align-items: center;
+    padding:20px;
+}
+
+.ftr-ourproducts{
+    list-style:none;
+}
+
+.ftr-listitems{
+    padding:10px 3px;
+}
+.actve-ftr{
+    font-weight:800;
+    color:#ffffff;
+}
+.footer-items{
+    display:flex;
+    justify-content: space-between;
+    width:80%;
+    margin:10px auto;
+
+}
+
+.fa-brands{
+    padding:10px;
+    border-radius: 50%;
+    background-color: #454444;
+}
+
+
+
+/* -----------responsive designs--------- */
+
