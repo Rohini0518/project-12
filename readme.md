@@ -21,7 +21,8 @@ This landing page, took me almost 8 hrs to complete,this is my project 12 in ful
 ![project 12](./screenshot5.png)
 ![project 12](./screenshot6.png)
 
-
+## Here is screen shot of responsive view:
+![project 12](mb-rspnsve.png)
 
 
 ## Here is live link
